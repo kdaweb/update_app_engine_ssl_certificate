@@ -13,9 +13,9 @@ new certificate.
 ## Usage
 Usage: update_app_engine_ssl_certificate.bash [ -a account] [ -c challenge ] [ -p project ] domain[...]
 
-  -a : Google Cloud service account to use
-  -c : LetsEncrypt challenge to use
-  -p : Google Cloud project to use
+* -a : Google Cloud service account to use
+* -c : LetsEncrypt challenge to use
+* -p : Google Cloud project to use
 
 ## Examples
 
